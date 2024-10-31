@@ -1,0 +1,13 @@
+.parent{
+    text-align: center;
+}
+
+.service{
+    width: 33%;
+    float: left;
+}
+.icon{
+    background-color: goldenrod;
+    color: white;
+    width: 25px;
+}
